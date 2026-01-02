@@ -1,1 +1,6 @@
+# Ignore compiled classes and build folder
 /build/
+*.class
+*.log
+
+# Keep everything else (source code, JSPs, configs)
